@@ -1,0 +1,45 @@
+name: build
+
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: 0 12 * * 3
+
+permissions:
+  contents: write # To push a branch
+
+jobs:
+  echo:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Initialize Environment
+        env:
+          DEBIAN_FRONTEND: noninteractive
+        run: |
+          sudo -E apt-get update
+          sudo -E apt-get -y install g++ make libboost-dev libssl-dev build-essential git libssl3
+          cd /opt && git clone https://github.com/muink/stunserver.git && cd stunserver && make
+
+      - name: Test
+        env:
+          DEBIAN_FRONTEND: noninteractive
+        run: |
+          for i in stuntestcode stunclient stunserver; do
+            sudo ln -s /opt/stunserver/$i /usr/bin/
+          done
+          stuntestcode
+
+      - name: Build
+        run: |
+          bash "$GITHUB_WORKSPACE/build.sh"
+
+      - name: Commit and push
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "actions-user@users.noreply.github.com"
+          git add .
+          git commit --allow-empty -m "Update" && git push
