@@ -58,6 +58,7 @@ stun.gntel.nl:3478
 stun.halonet.pl:3478
 stun.heeds.eu:3478
 stun.hide.me:3478
+stun.hitv.com:3478
 stun.hoiio.com:3478
 stun.hot-chilli.net:3478
 stun.imafex.sk:3478
@@ -115,6 +116,7 @@ stun.ppdi.com:3478
 stun.pure-ip.com:3478
 stun.qcol.net:3478
 stun.radiojar.com:3478
+stun.ringostat.com:3478
 stun.rockenstein.de:3478
 stun.rolmail.net:3478
 stun.romaaeterna.nl:3478
@@ -138,6 +140,7 @@ stun.smslisto.com:3478
 stun.solnet.ch:3478
 stun.solomo.de:3478
 stun.sonetel.com:3478
+stun.sonetel.net:3478
 stun.sparvoip.de:3478
 stun.splicecom.com:3478
 stun.srce.hr:3478
@@ -164,7 +167,6 @@ stun.tula.nu:3478
 stun.twt.it:3478
 stun.uls.co.za:3478
 stun.url.net.au:3478
-stun.usfamily.net:3478
 stun.vadacom.co.nz:3478
 stun.vivox.com:3478
 stun.vo.lu:3478
