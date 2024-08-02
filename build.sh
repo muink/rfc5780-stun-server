@@ -7,7 +7,7 @@ hosts_tcp='https://github.com/pradt2/always-online-stun/raw/master/valid_hosts_t
 list() {
 	for i in $(curl -L "$3"); do
 		result="$(timeout $1 stunclient --mode full --localport 20388 --protocol $2 ${i//:/ } 2>/dev/null)"
-		echo "$result" | grep -q 'Behavior test: success' && echo $i
+		grep -q 'Behavior test: success' <<< "$result" && echo $i
 	done
 }
 
