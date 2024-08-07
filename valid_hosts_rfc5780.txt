@@ -24,7 +24,6 @@ stun.cablenet-as.net:3478
 stun.callromania.ro:3478
 stun.carlovizzini.it:3478
 stun.cellmail.com:3478
-stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.cibercloud.com.br:3478
 stun.clickphone.ro:3478
@@ -88,6 +87,7 @@ stun.marcelproust.it:3478
 stun.medvc.eu:3478
 stun.megatel.si:3478
 stun.meowsbox.com:3478
+stun.miwifi.com:3478
 stun.mixvoip.com:3478
 stun.muoversi.net:3478
 stun.myvoiptraffic.com:3478
@@ -135,6 +135,7 @@ stun.smsdiscount.com:3478
 stun.smslisto.com:3478
 stun.solnet.ch:3478
 stun.solomo.de:3478
+stun.sonetel.net:3478
 stun.sparvoip.de:3478
 stun.splicecom.com:3478
 stun.srce.hr:3478
