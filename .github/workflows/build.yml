@@ -42,4 +42,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git config --local user.email "actions-user@users.noreply.github.com"
           git add .
-          git commit --allow-empty -m "Update" && git push
+          git commit --allow-empty -m "$(date +%F)" && git push
