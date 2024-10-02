@@ -24,7 +24,6 @@ stun.cablenet-as.net:3478
 stun.callromania.ro:3478
 stun.carlovizzini.it:3478
 stun.cellmail.com:3478
-stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.clickphone.ro:3478
 stun.comrex.com:3478
@@ -63,7 +62,6 @@ stun.hoiio.com:3478
 stun.hot-chilli.net:3478
 stun.imafex.sk:3478
 stun.imp.ch:3478
-stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.irishvoip.com:3478
@@ -114,7 +112,6 @@ stun.ppdi.com:3478
 stun.pure-ip.com:3478
 stun.qcol.net:3478
 stun.radiojar.com:3478
-stun.ringostat.com:3478
 stun.rockenstein.de:3478
 stun.rolmail.net:3478
 stun.romaaeterna.nl:3478
@@ -122,7 +119,6 @@ stun.root-1.de:3478
 stun.rynga.com:3478
 stun.schlund.de:3478
 stun.sewan.fr:3478
-stun.siedle.com:3478
 stun.sigmavoip.com:3478
 stun.sip.us:3478
 stun.sipdiscount.com:3478
@@ -135,8 +131,8 @@ stun.smsdiscount.com:3478
 stun.smslisto.com:3478
 stun.solnet.ch:3478
 stun.solomo.de:3478
+stun.sonetel.net:3478
 stun.sparvoip.de:3478
-stun.splicecom.com:3478
 stun.srce.hr:3478
 stun.stadtwerke-eutin.de:3478
 stun.stochastix.de:3478
