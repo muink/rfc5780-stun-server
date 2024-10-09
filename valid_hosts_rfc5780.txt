@@ -62,6 +62,7 @@ stun.hoiio.com:3478
 stun.hot-chilli.net:3478
 stun.imafex.sk:3478
 stun.imp.ch:3478
+stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.irishvoip.com:3478
@@ -85,7 +86,6 @@ stun.m-online.net:3478
 stun.marcelproust.it:3478
 stun.medvc.eu:3478
 stun.megatel.si:3478
-stun.meowsbox.com:3478
 stun.mixvoip.com:3478
 stun.muoversi.net:3478
 stun.myvoiptraffic.com:3478
@@ -131,6 +131,7 @@ stun.smsdiscount.com:3478
 stun.smslisto.com:3478
 stun.solnet.ch:3478
 stun.solomo.de:3478
+stun.sonetel.com:3478
 stun.sonetel.net:3478
 stun.sparvoip.de:3478
 stun.srce.hr:3478
