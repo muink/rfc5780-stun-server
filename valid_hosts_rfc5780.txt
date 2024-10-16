@@ -67,7 +67,6 @@ stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.irishvoip.com:3478
 stun.ixc.ua:3478
-stun.jabber.dk:3478
 stun.jabbim.cz:3478
 stun.jumblo.com:3478
 stun.junet.se:3478
@@ -86,6 +85,7 @@ stun.m-online.net:3478
 stun.marcelproust.it:3478
 stun.medvc.eu:3478
 stun.megatel.si:3478
+stun.meowsbox.com:3478
 stun.mixvoip.com:3478
 stun.muoversi.net:3478
 stun.myvoiptraffic.com:3478
@@ -131,9 +131,8 @@ stun.smsdiscount.com:3478
 stun.smslisto.com:3478
 stun.solnet.ch:3478
 stun.solomo.de:3478
-stun.sonetel.com:3478
-stun.sonetel.net:3478
 stun.sparvoip.de:3478
+stun.splicecom.com:3478
 stun.srce.hr:3478
 stun.stadtwerke-eutin.de:3478
 stun.stochastix.de:3478
