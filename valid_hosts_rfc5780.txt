@@ -112,16 +112,17 @@ stun.ppdi.com:3478
 stun.pure-ip.com:3478
 stun.qcol.net:3478
 stun.radiojar.com:3478
+stun.ringostat.com:3478
 stun.rockenstein.de:3478
 stun.rolmail.net:3478
 stun.romaaeterna.nl:3478
 stun.root-1.de:3478
 stun.rynga.com:3478
 stun.schlund.de:3478
-stun.sewan.fr:3478
 stun.sigmavoip.com:3478
 stun.sip.us:3478
 stun.sipdiscount.com:3478
+stun.sipthor.net:3478
 stun.siptraffic.com:3478
 stun.siptrunk.com:3478
 stun.sky.od.ua:3478
@@ -131,6 +132,7 @@ stun.smsdiscount.com:3478
 stun.smslisto.com:3478
 stun.solnet.ch:3478
 stun.solomo.de:3478
+stun.sonetel.com:3478
 stun.sparvoip.de:3478
 stun.splicecom.com:3478
 stun.srce.hr:3478
