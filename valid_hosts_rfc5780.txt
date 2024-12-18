@@ -18,7 +18,6 @@ stun.pure-ip.com:3478
 stun.radiojar.com:3478
 stun.ringostat.com:3478
 stun.romaaeterna.nl:3478
-stun.root-1.de:3478
 stun.sip.us:3478
 stun.siptrunk.com:3478
 stun.skydrone.aero:3478
