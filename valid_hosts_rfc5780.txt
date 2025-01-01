@@ -3,7 +3,6 @@ stun.antisip.com:3478
 stun.avigora.fr:3478
 stun.axialys.net:3478
 stun.bethesda.net:3478
-stun.chatous.com:3478
 stun.cope.es:3478
 stun.dcalling.de:3478
 stun.fitauto.ru:3478
