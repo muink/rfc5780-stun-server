@@ -5,6 +5,7 @@ stun.bethesda.net:3478
 stun.chatous.com:3478
 stun.cope.es:3478
 stun.dcalling.de:3478
+stun.fitauto.ru:3478
 stun.heeds.eu:3478
 stun.hot-chilli.net:3478
 stun.imp.ch:3478
@@ -19,7 +20,6 @@ stun.root-1.de:3478
 stun.sip.us:3478
 stun.siptrunk.com:3478
 stun.skydrone.aero:3478
-stun.sonetel.com:3478
 stun.spreed.me:3478
 stun.stochastix.de:3478
 stun.streamnow.ch:3478
