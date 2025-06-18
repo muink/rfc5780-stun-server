@@ -20,6 +20,7 @@ stun.root-1.de:3478
 stun.sip.us:3478
 stun.siptrunk.com:3478
 stun.skydrone.aero:3478
+stun.sonetel.net:3478
 stun.spreed.me:3478
 stun.stochastix.de:3478
 stun.streamnow.ch:3478
