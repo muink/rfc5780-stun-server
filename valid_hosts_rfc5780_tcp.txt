@@ -1,4 +1,3 @@
-stun.avigora.fr:3478
 stun.fitauto.ru:3478
 stun.hot-chilli.net:3478
 stun.m-online.net:3478
