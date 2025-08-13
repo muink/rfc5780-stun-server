@@ -2,10 +2,8 @@ stun.3wayint.com:3478
 stun.axialys.net:3478
 stun.bethesda.net:3478
 stun.cope.es:3478
-stun.fitauto.ru:3478
 stun.heeds.eu:3478
 stun.hot-chilli.net:3478
-stun.imp.ch:3478
 stun.m-online.net:3478
 stun.mixvoip.com:3478
 stun.nextcloud.com:3478
@@ -19,10 +17,8 @@ stun.sip.us:3478
 stun.siptrunk.com:3478
 stun.skydrone.aero:3478
 stun.sonetel.com:3478
-stun.sonetel.net:3478
 stun.spreed.me:3478
 stun.stochastix.de:3478
-stun.streamnow.ch:3478
 stun.telnyx.com:3478
 stun.tula.nu:3478
 stun.voipgate.com:3478
