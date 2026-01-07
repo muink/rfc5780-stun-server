@@ -12,10 +12,12 @@ stun.nextcloud.com:3478
 stun.nextcloud.com:443
 stun.pure-ip.com:3478
 stun.radiojar.com:3478
+stun.ringostat.com:3478
 stun.romaaeterna.nl:3478
 stun.sip.us:3478
 stun.siptrunk.com:3478
 stun.skydrone.aero:3478
+stun.sonetel.com:3478
 stun.stochastix.de:3478
 stun.telnyx.com:3478
 stun.tula.nu:3478
