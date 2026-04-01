@@ -18,7 +18,6 @@ stun.sip.us:3478
 stun.siptrunk.com:3478
 stun.skydrone.aero:3478
 stun.sonetel.com:3478
-stun.sonetel.net:3478
 stun.stochastix.de:3478
 stun.telnyx.com:3478
 stun.tula.nu:3478
