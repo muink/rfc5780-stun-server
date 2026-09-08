@@ -11,5 +11,5 @@ list() {
 	done
 }
 
-list 30 udp "$hosts" | sort > "valid_hosts_rfc5780.txt"
-list 10 tcp "$hosts_tcp" | sort > "valid_hosts_rfc5780_tcp.txt"
+list 30 udp "$hosts" | sort | tee "valid_hosts_rfc5780.txt"
+list 10 tcp "$hosts_tcp" | sort | tee "valid_hosts_rfc5780_tcp.txt"

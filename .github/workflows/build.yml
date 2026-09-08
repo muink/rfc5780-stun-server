@@ -22,7 +22,7 @@ jobs:
         run: |
           sudo -E apt-get update
           sudo -E apt-get -y install g++ make libboost-dev libssl-dev build-essential git libssl3
-          cd /opt && git clone https://github.com/muink/stunserver.git && cd stunserver && make
+          cd /opt && git clone https://github.com/jselbie/stunserver.git && cd stunserver && make
 
       - name: Test
         env:
