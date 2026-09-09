@@ -1,16 +1,15 @@
 stun.1-voip.com:3478
 stun.12voip.com:3478
 stun.1und1.de:3478
+stun.5sn.com:3478
 stun.aa.net.uk:3478
 stun.aaisp.co.uk:3478
 stun.acquageraci.it:3478
 stun.acrobits.cz:3478
 stun.actionvoip.com:3478
-stun.alberon.cz:3478
 stun.alphacron.de:3478
 stun.arkh-edu.ru:3478
 stun.autosystem.com:3478
-stun.avoxi.com:3478
 stun.axeos.nl:3478
 stun.axialys.net:3478
 stun.babelforce.com:3478
@@ -23,7 +22,7 @@ stun.cheapvoip.com:3478
 stun.clickphone.ro:3478
 stun.comrex.com:3478
 stun.cope.es:3478
-stun.counterpath.com:3478
+stun.counterpath.net:3478
 stun.ctafauni.it:3478
 stun.dcalling.de:3478
 stun.dls.net:3478
@@ -31,7 +30,6 @@ stun.dus.net:3478
 stun.easter-eggs.com:3478
 stun.easybell.de:3478
 stun.easyvoip.com:3478
-stun.ekiga.net:3478
 stun.epygi.com:3478
 stun.fairytel.at:3478
 stun.fathomvoice.com:3478
@@ -46,9 +44,7 @@ stun.gntel.nl:3478
 stun.halonet.pl:3478
 stun.hide.me:3478
 stun.hitv.com:3478
-stun.hoiio.com:3478
 stun.imafex.sk:3478
-stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.irishvoip.com:3478
@@ -81,6 +77,7 @@ stun.nextcloud.com:443
 stun.nexxtmobile.de:3478
 stun.nonoh.net:3478
 stun.officinabit.com:3478
+stun.olimontel.it:3478
 stun.openvoip.it:3478
 stun.planetarium.com.br:3478
 stun.poivy.com:3478
@@ -95,7 +92,6 @@ stun.rolmail.net:3478
 stun.romaaeterna.nl:3478
 stun.rynga.com:3478
 stun.schlund.de:3478
-stun.sigmavoip.com:3478
 stun.sip.us:3478
 stun.sipdiscount.com:3478
 stun.siptraffic.com:3478
@@ -106,6 +102,8 @@ stun.smartvoip.com:3478
 stun.smsdiscount.com:3478
 stun.smslisto.com:3478
 stun.solnet.ch:3478
+stun.sonetel.com:3478
+stun.sonetel.net:3478
 stun.sparvoip.de:3478
 stun.srce.hr:3478
 stun.stadtwerke-eutin.de:3478
