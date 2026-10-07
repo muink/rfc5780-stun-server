@@ -98,6 +98,7 @@ stun.smartvoip.com:3478
 stun.smsdiscount.com:3478
 stun.smslisto.com:3478
 stun.solnet.ch:3478
+stun.sonetel.com:3478
 stun.sparvoip.de:3478
 stun.srce.hr:3478
 stun.stadtwerke-eutin.de:3478
