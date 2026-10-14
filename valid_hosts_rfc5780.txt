@@ -9,7 +9,6 @@ stun.actionvoip.com:3478
 stun.alphacron.de:3478
 stun.arkh-edu.ru:3478
 stun.autosystem.com:3478
-stun.axeos.nl:3478
 stun.axialys.net:3478
 stun.babelforce.com:3478
 stun.bernardoprovenzano.net:3478
@@ -40,7 +39,6 @@ stun.gmx.net:3478
 stun.gntel.nl:3478
 stun.halonet.pl:3478
 stun.hide.me:3478
-stun.hitv.com:3478
 stun.hoiio.com:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
@@ -98,7 +96,6 @@ stun.smartvoip.com:3478
 stun.smsdiscount.com:3478
 stun.smslisto.com:3478
 stun.solnet.ch:3478
-stun.sonetel.com:3478
 stun.sparvoip.de:3478
 stun.srce.hr:3478
 stun.stadtwerke-eutin.de:3478
