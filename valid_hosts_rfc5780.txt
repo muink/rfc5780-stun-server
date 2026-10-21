@@ -16,6 +16,7 @@ stun.bethesda.net:3478
 stun.cablenet-as.net:3478
 stun.callromania.ro:3478
 stun.carlovizzini.it:3478
+stun.chatous.com:3478
 stun.cheapvoip.com:3478
 stun.clickphone.ro:3478
 stun.comrex.com:3478
@@ -39,6 +40,7 @@ stun.gmx.net:3478
 stun.gntel.nl:3478
 stun.halonet.pl:3478
 stun.hide.me:3478
+stun.hitv.com:3478
 stun.hoiio.com:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
@@ -90,17 +92,16 @@ stun.sip.us:3478
 stun.sipdiscount.com:3478
 stun.siptraffic.com:3478
 stun.siptrunk.com:3478
-stun.sky.od.ua:3478
 stun.skydrone.aero:3478
 stun.smartvoip.com:3478
 stun.smsdiscount.com:3478
 stun.smslisto.com:3478
 stun.solnet.ch:3478
+stun.sonetel.com:3478
 stun.sparvoip.de:3478
 stun.srce.hr:3478
 stun.stadtwerke-eutin.de:3478
 stun.stochastix.de:3478
-stun.studio71.it:3478
 stun.swrag.de:3478
 stun.syrex.co.za:3478
 stun.t-online.de:3478
