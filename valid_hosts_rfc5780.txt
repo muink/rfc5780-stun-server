@@ -25,13 +25,11 @@ stun.ctafauni.it:3478
 stun.dcalling.de:3478
 stun.dls.net:3478
 stun.dus.net:3478
-stun.easter-eggs.com:3478
 stun.easybell.de:3478
 stun.easyvoip.com:3478
 stun.epygi.com:3478
 stun.fairytel.at:3478
 stun.fathomvoice.com:3478
-stun.fitauto.ru:3478
 stun.freecall.com:3478
 stun.freevoipdeal.com:3478
 stun.gigaset.net:3478
@@ -40,8 +38,8 @@ stun.gmx.net:3478
 stun.gntel.nl:3478
 stun.halonet.pl:3478
 stun.hide.me:3478
-stun.hitv.com:3478
 stun.hoiio.com:3478
+stun.infra.net:3478
 stun.internetcalls.com:3478
 stun.intervoip.com:3478
 stun.jabbim.cz:3478
@@ -70,7 +68,6 @@ stun.nexphone.ch:3478
 stun.next-gen.ro:3478
 stun.nextcloud.com:3478
 stun.nextcloud.com:443
-stun.nexxtmobile.de:3478
 stun.nonoh.net:3478
 stun.officinabit.com:3478
 stun.olimontel.it:3478
@@ -92,6 +89,7 @@ stun.sip.us:3478
 stun.sipdiscount.com:3478
 stun.siptraffic.com:3478
 stun.siptrunk.com:3478
+stun.sky.od.ua:3478
 stun.skydrone.aero:3478
 stun.smartvoip.com:3478
 stun.smsdiscount.com:3478
@@ -102,6 +100,7 @@ stun.sparvoip.de:3478
 stun.srce.hr:3478
 stun.stadtwerke-eutin.de:3478
 stun.stochastix.de:3478
+stun.studio71.it:3478
 stun.swrag.de:3478
 stun.syrex.co.za:3478
 stun.t-online.de:3478
