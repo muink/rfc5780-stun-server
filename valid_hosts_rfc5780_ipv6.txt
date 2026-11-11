@@ -2,7 +2,6 @@ stun.aa.net.uk:3478
 stun.aaisp.co.uk:3478
 stun.axialys.net:3478
 stun.callromania.ro:3478
-stun.chatous.com:3478
 stun.dls.net:3478
 stun.dus.net:3478
 stun.fathomvoice.com:3478
@@ -19,7 +18,6 @@ stun.pure-ip.com:3478
 stun.rockenstein.de:3478
 stun.schlund.de:3478
 stun.sky.od.ua:3478
-stun.sonetel.com:3478
 stun.srce.hr:3478
 stun.stadtwerke-eutin.de:3478
 stun.stochastix.de:3478

@@ -14,7 +14,6 @@ stun.bethesda.net:3478
 stun.cablenet-as.net:3478
 stun.callromania.ro:3478
 stun.carlovizzini.it:3478
-stun.chatous.com:3478
 stun.clickphone.ro:3478
 stun.comrex.com:3478
 stun.cope.es:3478
@@ -35,7 +34,6 @@ stun.halonet.pl:3478
 stun.hide.me:3478
 stun.hitv.com:3478
 stun.hoiio.com:3478
-stun.infra.net:3478
 stun.jabbim.cz:3478
 stun.junet.se:3478
 stun.labs.net:3478
@@ -51,8 +49,10 @@ stun.mixvoip.com:3478
 stun.nanocosmos.de:3478
 stun.neomedia.it:3478
 stun.nexphone.ch:3478
+stun.next-gen.ro:3478
 stun.nextcloud.com:3478
 stun.nextcloud.com:443
+stun.nexxtmobile.de:3478
 stun.officinabit.com:3478
 stun.olimontel.it:3478
 stun.openvoip.it:3478
@@ -63,14 +63,12 @@ stun.radiojar.com:3478
 stun.ringostat.com:3478
 stun.rockenstein.de:3478
 stun.rolmail.net:3478
-stun.romaaeterna.nl:3478
 stun.schlund.de:3478
 stun.sip.us:3478
 stun.siptrunk.com:3478
 stun.sky.od.ua:3478
 stun.skydrone.aero:3478
 stun.solnet.ch:3478
-stun.sonetel.com:3478
 stun.srce.hr:3478
 stun.stadtwerke-eutin.de:3478
 stun.stochastix.de:3478
