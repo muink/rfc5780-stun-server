@@ -2,6 +2,7 @@ stun.aa.net.uk:3478
 stun.aaisp.co.uk:3478
 stun.axialys.net:3478
 stun.callromania.ro:3478
+stun.chatous.com:3478
 stun.dls.net:3478
 stun.dus.net:3478
 stun.fathomvoice.com:3478

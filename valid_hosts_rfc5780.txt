@@ -14,6 +14,7 @@ stun.bethesda.net:3478
 stun.cablenet-as.net:3478
 stun.callromania.ro:3478
 stun.carlovizzini.it:3478
+stun.chatous.com:3478
 stun.clickphone.ro:3478
 stun.comrex.com:3478
 stun.cope.es:3478
@@ -34,6 +35,7 @@ stun.halonet.pl:3478
 stun.hide.me:3478
 stun.hitv.com:3478
 stun.hoiio.com:3478
+stun.infra.net:3478
 stun.jabbim.cz:3478
 stun.junet.se:3478
 stun.labs.net:3478
@@ -66,6 +68,7 @@ stun.rolmail.net:3478
 stun.schlund.de:3478
 stun.sip.us:3478
 stun.siptrunk.com:3478
+stun.sipy.cz:3478
 stun.sky.od.ua:3478
 stun.skydrone.aero:3478
 stun.solnet.ch:3478
@@ -101,3 +104,4 @@ stun.voztele.com:3478
 stun.waterpolopalermo.it:3478
 stun.wemag.com:3478
 stun.westtel.ky:3478
+stun.wia.cz:3478

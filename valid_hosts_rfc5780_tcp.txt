@@ -5,5 +5,7 @@ stun.mixvoip.com:3478
 stun.pure-ip.com:3478
 stun.sip.us:3478
 stun.siptrunk.com:3478
+stun.sipy.cz:3478
 stun.voipgate.com:3478
 stun.voipia.net:3478
+stun.wia.cz:3478
